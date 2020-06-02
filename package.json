@@ -1,0 +1,22 @@
+{
+  "name": "madeinassemblybot",
+  "version": "1.0.0",
+  "description": "discord bot for music suggestions guild (https://discord.gg/xGCU944)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mini-lucario/madeinassemblybot.git"
+  },
+  "author": "lapras (mini_lucario)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mini-lucario/madeinassemblybot/issues"
+  },
+  "homepage": "https://github.com/mini-lucario/madeinassemblybot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
